@@ -65,3 +65,4 @@ Plugins/
 # Cache files for the editor to use
 DerivedDataCache/
 Ascension/Ascension.uproject
+*.uproject
